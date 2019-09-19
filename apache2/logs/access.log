@@ -1,0 +1,15 @@
+::1 - - [19/Sep/2019:19:21:47 -0300] "GET /Projeto/index.php HTTP/1.1" 200 1128
+::1 - - [19/Sep/2019:19:21:48 -0300] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [19/Sep/2019:19:21:43 -0300] "GET /phpmyadmin/ HTTP/1.1" 200 8024
+::1 - - [19/Sep/2019:19:21:48 -0300] "GET /phpmyadmin/phpmyadmin.css.php?server=1&token=1c8073b5f2a3557a707f079cb07781f1&nocache=4668183971ltr HTTP/1.1" 200 88608
+::1 - - [19/Sep/2019:19:21:49 -0300] "GET /phpmyadmin/js/messages.php?lang=pt&db=&server=0&token=a81471f471e4b778a4abb833843aaae4 HTTP/1.1" 200 18103
+::1 - - [19/Sep/2019:19:22:04 -0300] "POST /phpmyadmin/index.php HTTP/1.1" 302 -
+::1 - - [19/Sep/2019:19:22:04 -0300] "GET /phpmyadmin/index.php?token=1c8073b5f2a3557a707f079cb07781f1 HTTP/1.1" 200 50170
+::1 - - [19/Sep/2019:19:22:06 -0300] "GET /phpmyadmin/phpmyadmin.css.php?server=1&token=1c8073b5f2a3557a707f079cb07781f1&nocache=6237115696ltr HTTP/1.1" 200 88608
+::1 - - [19/Sep/2019:19:22:06 -0300] "GET /phpmyadmin/js/messages.php?lang=pt&db=&server=0&token=1c8073b5f2a3557a707f079cb07781f1 HTTP/1.1" 200 18103
+::1 - - [19/Sep/2019:19:22:06 -0300] "GET /phpmyadmin/version_check.php?&_nocache=1568931726523124472 HTTP/1.1" 200 41
+::1 - - [19/Sep/2019:19:22:07 -0300] "GET /phpmyadmin/navigation.php?ajax_request=1&token=1c8073b5f2a3557a707f079cb07781f1&aPath=cm9vdA%3D%3D.dmlwZ2FtZXM%3D&vPath=cm9vdA%3D%3D.dmlwZ2FtZXM%3D&pos=0&pos2_name=&pos2_value=&searchClause=&searchClause2=&_nocache=1568931727965813544 HTTP/1.1" 200 4474
+::1 - - [19/Sep/2019:19:22:11 -0300] "GET /phpmyadmin/navigation.php?ajax_request=1&token=1c8073b5f2a3557a707f079cb07781f1&aPath=cm9vdA%3D%3D.dmlwZ2FtZXM%3D.dGFibGVz.ZXN0b3F1ZQ%3D%3D&vPath=cm9vdA%3D%3D.dmlwZ2FtZXM%3D.VGFiZWxhcw%3D%3D.ZXN0b3F1ZQ%3D%3D&pos=0&pos2_name=tables&pos2_value=0&searchClause=&searchClause2=&_nocache=1568931730947729155 HTTP/1.1" 200 3444
+::1 - - [19/Sep/2019:19:22:13 -0300] "GET /phpmyadmin/navigation.php?ajax_request=1&token=1c8073b5f2a3557a707f079cb07781f1&aPath=cm9vdA%3D%3D.dmlwZ2FtZXM%3D.dGFibGVz.ZXN0b3F1ZQ%3D%3D.Y29sdW1ucw%3D%3D&vPath=cm9vdA%3D%3D.dmlwZ2FtZXM%3D.VGFiZWxhcw%3D%3D.ZXN0b3F1ZQ%3D%3D.Q29sdW1ucw%3D%3D&pos=0&pos2_name=tables&pos2_value=0&searchClause=&searchClause2=&_nocache=156893173360485021 HTTP/1.1" 200 4578
+::1 - - [19/Sep/2019:19:24:15 -0300] "GET /Projeto/principal.php HTTP/1.1" 200 1270
+::1 - - [19/Sep/2019:19:24:15 -0300] "GET /Projeto/index.php HTTP/1.1" 200 1128

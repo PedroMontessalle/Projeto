@@ -1,0 +1,12 @@
+Idéias
+
+-VIPGAMES
+-site fundo branco, logo cobrindo a parte de cima do site inteira (horizontal)
+-apresentação do site + informações
+-produtos de venda foto do item/preço em baixo do item
+-banco de dados loja:
+ estoque(id/int/auto_increment, id_pedido_item/int/null, id_produto/int/null, custo/decimal 10,2, descricao/varchar 50, quantidade/decimal 10,2)
+ pedido(id/int/auto_increment, id_pessoa/int/null, direcao/varchar 1, valor_total/decimal 10,2)
+ pedido_item(id/int/auto_increment, id_pedido/int/null, id_produto/int/null, descricao/varchar 50, preco/decimal 10,2, quantidade/int)
+ pessoa(id/int/auto_increment, nome/varchar 50, cpf/varchar 14, id_pessoa/int/null)
+ produto(id/int/auto_increment, nome/varchar 50, descricao/varchar 50) 
